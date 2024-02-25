@@ -1,2 +1,1 @@
-# wisienki2ie.github.io
-stoopid website
+Real website in development :P
